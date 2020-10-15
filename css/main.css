@@ -440,5 +440,13 @@ section{
     text-align: right;
     color: #002021;
   }
+  .scroll-down1 {
+  position:absolute;
+  left:50%;
+  bottom:3%;
+  transform:translateX(-50%);
+  width: 30px;
+  height: 30px;
+  }
 }
 
